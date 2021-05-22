@@ -40,7 +40,7 @@
 			return list[index]
 	return
 
-/proc/islistt(list/list)
+/proc/isList(list/list)
 	if(istype(list))
 		return 1
 	return 0
