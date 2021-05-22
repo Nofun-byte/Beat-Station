@@ -2,7 +2,6 @@
 [![Build Status](https://api.travis-ci.org/Beat-Station/Beat-Station.svg?branch=master)](https://travis-ci.org/Beat-Station/Beat-Station)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Beat-Station/Beat-Station.svg)](http://isitmaintained.com/project/Beat-Station/Beat-Station "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Beat-Station/Beat-Station.svg)](http://isitmaintained.com/project/Beat-Station/Beat-Station "Percentage of issues still open")
-[![Krihelimeter](http://www.krihelinator.xyz/badge/Beat-Station/Beat-Station)](http://www.krihelinator.xyz) 
 
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
